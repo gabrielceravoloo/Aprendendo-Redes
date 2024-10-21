@@ -32,6 +32,10 @@ Este repositório foi criado para armazenar meus exercicios e estudo sobre redes
 - **CSMA-CD (Carrier Sense Multiple Access with Collision Detection)**: Protocolo de controle de acesso ao meio para redes Ethernet
 - **DHCP (Dynamic Host Configuration Protocol)**: Protocolo usado para atribuição dinâmica de endereços IP a dispositivos em uma rede
 
+## Funcionalidades utilizadas em redes de computadores
+
+-**APIPA (Automatic Private IP Addressing)**: Mecanismo que permite a dispositivos em uma rede local atribuírem a si mesmos quando não conseguem obter um endereço IP de um servidor DHCP
+
 ## Topologias de Rede
 
 - **Topologia Estrela**: Um equipamento central (como um switch ou hub) interliga todos os dispositivos na rede
