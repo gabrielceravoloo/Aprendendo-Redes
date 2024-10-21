@@ -55,6 +55,7 @@ Este repositório foi criado para armazenar meus exercicios e estudo sobre redes
 - **Topologia Estrela**: Um equipamento central (como um switch ou hub) interliga todos os dispositivos na rede
 - **Topologia Anel**: Os dispositivos são conectados em um anel fechado, onde cada dispositivo tem exatamente dois vizinhos
 - **Topologia Barramento**: Todos os dispositivos são conectados a um único cabo central
+- **Topologia Hierárquica**: os dispositivos são organizados em uma estrutura em camadas, onde os níveis superiores controlam os níveis inferiores
 
 ## Endereços IP Especiais
 
