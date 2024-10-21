@@ -12,9 +12,23 @@ Este repositório foi criado para armazenar meus exercicios e estudo sobre redes
 
 <hr>
 
+## Tipos de Redes
+
+| **Tipo de Rede** | **Descrição**                                            | **Exemplo de Uso**                                  |
+|------------------|----------------------------------------------------------|-----------------------------------------------------|
+| **LAN (Local Area Network)** | Rede local que conecta dispositivos em uma área geográfica limitada, como uma casa, escritório ou campus | Conexão de computadores em um escritório           |
+| **MAN (Metropolitan Area Network)** | Rede que cobre uma área maior que uma LAN, geralmente uma cidade ou um campus universitário | Conexão entre diferentes escritórios em uma cidade  |
+| **WAN (Wide Area Network)** | Rede que abrange grandes distâncias geográficas, conectando redes locais em diferentes regiões ou países | A Internet é o exemplo mais comum de WAN           |
+| **PAN (Personal Area Network)** | Rede de curto alcance, geralmente usada para conectar dispositivos pessoais como smartphones, tablets e laptops | Conexão Bluetooth entre um smartphone e um fone de ouvido |
+| **VLAN (Virtual Local Area Network)** | Rede local virtual que agrupa dispositivos em uma rede lógica, independentemente de sua localização física | Segregação de tráfego de diferentes departamentos em uma empresa |
+| **WLAN (Wireless Local Area Network)** | Rede local que utiliza tecnologia sem fio para conectar dispositivos | Conexão Wi-Fi em casa ou em um café                |
+| **CAN (Campus Area Network)** | Rede que conecta várias LANs em um campus, como uma universidade. | Conexão entre vários prédios de uma universidade    |
+| **SAN (Storage Area Network)** | Rede especializada para conectar dispositivos de armazenamento, como servidores e unidades de disco, permitindo acesso eficiente a dados | Armazenamento em rede para servidores de dados      |
+| **GAN (Global Area Network)** | Rede que cobre uma área geográfica ampla, geralmente conectando várias WANs. | Conexão de várias redes em diferentes continentes   |
+
 <div align="center">
 
-<h1> Tipos de Cabos de Rede </h1>
+## Tipos de Cabos de Rede </h1>
 
 <br>
 
