@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" alt="Capa do Repositorio"> <!-- Adicionar a nova capa -->
+  <img src="https://github.com/gabrielceravoloo/Aprendendo-Redes/blob/main/Imagens/Banner.png" alt="Capa do Repositorio"> <!-- Adicionar a nova capa -->
 </div>
 
 <br>
@@ -23,7 +23,9 @@ O NFC, ou Comunicação por Campo Próximo, é uma tecnologia que permite a troc
 
 No cotidiano, podemos encontrar essa tecnologia em cartões de crédito, cartões de acesso para ônibus, fechaduras eletrônicas, entre outros. Embora o formato de cartão seja o mais conhecido, a tecnologia NFC também pode ser incorporada em outros dispositivos, como smartphones mais recentes, que a utilizam tanto para pagamentos quanto para a transmissão de dados para outros dispositivos compatíveis.
 
-<!--[ Adicionar uma imagem sobre o NFC ] -->
+<div align="center">
+  <img src="https://github.com/gabrielceravoloo/Aprendendo-Redes/blob/main/Imagens/NFC.jpeg" alt="Imagem Ilustrativa sobre a tecnologia NFC">
+</div>
 
 <hr>
 
