@@ -1,16 +1,45 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b27b4e22-0917-42a6-a002-37a7ff385318" alt="Capa do Repositorio">
+  <img src="" alt="Capa do Repositorio"> <!-- Adicionar a nova capa -->
 </div>
 
 <br>
 
 ![Status](http://img.shields.io/static/v1?label=STATUS&message=ESTUDANDO&color=yellow&style=for-the-badge)
 
-### Descrição sobre o repositório: 
+## 📝 Descrição sobre o repositório: 
 
-Este repositório foi criado para armazenar meus exercicios e estudo sobre redes de computadores, o exercicios utilizam algumas ferramentas alem do famoso ***CISCO PACKET TRACER***
+Este repositório foi criado para registrar meus estudos sobre **Rede de Computadores**, com o objetivo de não só me ajudar a fixar melhor meus aprendizados sobre o assunto, mas também ajudar aqueles que procuram entender mais sobre o tema. Nele, além de tópicos sobre a matéria, também abordei alguns exercícios realizados no software [Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer), tambem resaltei algumas curiosidades que descobri durante os estudos, trazendo assim uma leitura mais tranquila e interresante 🤓
 
 <hr>
+
+<!-- Adicionar imagens -->
+<!-- Adicionar introdução sobre oque é rede de computadores -->
+
+## 🗂️ Classificações de redes quanto à abrangência
+
+### NFC (Near Field Communication)
+
+O NFC, ou Comunicação por Campo Próximo, é uma tecnologia que permite a troca de informações sem fio entre dispositivos próximos uns dos outros. Essa comunicação ocorre a uma distância de apenas alguns centímetros e geralmente utiliza a tecnologia chamada **RFID (Identificação por Radiofrequência)**.
+
+No cotidiano, podemos encontrar essa tecnologia em cartões de crédito, cartões de acesso para ônibus, fechaduras eletrônicas, entre outros. Embora o formato de cartão seja o mais conhecido, a tecnologia NFC também pode ser incorporada em outros dispositivos, como smartphones mais recentes, que a utilizam tanto para pagamentos quanto para a transmissão de dados para outros dispositivos compatíveis.
+
+<!--[ Adicionar uma imagem sobre o NFC ] -->
+
+<hr>
+
+### BAN (Body Area Network)
+
+O BAN, ou Rede de Área Corporal, é uma tecnologia utilizada principalmente em aplicações na área da saúde. Nessa rede, os sensores distribuídos pelo seu corpo se comunicam com dispositivos eletrônicos, que podem estar fixados ao corpo, como smartwatches, ou posicionados próximos a ele, como sensores de batimentos cardíacos.
+
+<!--[ Adicionar uma imagem sobre o BAN ] -->
+
+<hr>
+
+### PAN (Personal Area Network)
+
+<!-- Adicionar uma explicação para diferenciar WEB de Internet -->
+
+<!-- Assuntos antigos que devem ser arrumados para uma melhor compreensão
 
 ## Tipos de Redes
 
