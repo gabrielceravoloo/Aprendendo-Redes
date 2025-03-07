@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/gabrielceravoloo/Aprendendo-Redes/blob/main/Imagens/Banner.png" alt="Capa do Repositorio"> <!-- Adicionar a nova capa -->
+  <img src="https://github.com/gabrielceravoloo/Aprendendo-Redes/blob/main/Imagens/Banner.png" alt="Capa do Repositorio">
 </div>
 
 <br>
@@ -8,35 +8,35 @@
 
 ## 📝 Descrição sobre o repositório: 
 
-Este repositório foi criado para registrar meus estudos sobre **Rede de Computadores**, com o objetivo de não só me ajudar a fixar melhor meus aprendizados sobre o assunto, mas também ajudar aqueles que procuram entender mais sobre o tema. Nele, além de tópicos sobre a matéria, também abordei alguns exercícios realizados no software [Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer), tambem resaltei algumas curiosidades que descobri durante os estudos, trazendo assim uma leitura mais tranquila e interresante 🤓
+Este repositório foi criado para registrar meus estudos sobre [Rede de Computadores](https://github.com/gabrielceravoloo/Aprendendo-Redes/tree/main?tab=readme-ov-file#-oque-%C3%A9-uma-rede-de-computadores), com o objetivo de não só me ajudar a fixar melhor meus aprendizados sobre o assunto, mas também ajudar aqueles que procuram entender mais sobre o tema. Nele, além de tópicos sobre a matéria, também abordei alguns exercícios realizados no software [Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer), tambem resaltei algumas curiosidades que descobri durante os estudos, trazendo assim uma leitura mais tranquila e interresante 🤓
 
 <hr>
 
 ## 💻 Oque é uma rede de computadores?
 
-<!-- INICIO -->
-
 Uma rede de computadores é um conjunto de dispositivos interligados entre si por algum tipo de conexão, seja com ou sem fio. O principal objetivo de uma rede é permitir o compartilhamento de recursos e informações entre dispositivos.
 
 <div align="center">
-  <img src="https://github.com/gabrielceravoloo/Aprendendo-Redes/blob/main/Imagens/Redes.jpeg" alt="Imagem Ilustrativa sobre a tecnologia NFC">
+  <img src="https://github.com/gabrielceravoloo/Aprendendo-Redes/blob/main/Imagens/Redes.jpeg" alt="Imagem Ilustrativa sobre uma rede de computadores">
 </div>
 
 No nosso dia a dia, utilizamos redes de computadores o tempo todo, muitas vezes sem perceber. Um exemplo simples é quando sacamos dinheiro em um caixa eletrônico. Ao inserir o cartão e solicitar um saque, o caixa eletrônico se conecta ao sistema do banco para verificar suas informações bancárias e confirmar se há saldo suficiente. Se tudo estiver certo, a transação é autorizada, e o dinheiro é liberado. 
 
-<!-- Adicionar introdução sobre oque é rede de computadores -->
+<hr>
 
 ## 🗂️ Classificações de redes quanto à abrangência
+
+Antes de começarmos a criar nossa primeira rede, precisamos entender alguns conceitos, ...
 
 ### NFC (Near Field Communication)
 
 O NFC, ou Comunicação por Campo Próximo, é um tipo de rede que permite a troca de informações sem fio entre dispositivos próximos uns dos outros. Essa comunicação ocorre a uma distância de apenas alguns centímetros e geralmente utiliza a tecnologia chamada **RFID (Identificação por Radiofrequência)**.
 
-No cotidiano, podemos encontrar essa tecnologia em cartões de crédito, cartões de acesso para ônibus, fechaduras eletrônicas, entre outros. Embora o formato de cartão seja o mais conhecido, a tecnologia NFC também pode ser incorporada em outros dispositivos, como smartphones mais recentes, que a utilizam tanto para pagamentos quanto para a transmissão de dados para outros dispositivos compatíveis.
-
 <div align="center">
   <img src="https://github.com/gabrielceravoloo/Aprendendo-Redes/blob/main/Imagens/NFC.jpeg" alt="Imagem Ilustrativa sobre a tecnologia NFC">
 </div>
+
+No cotidiano, podemos encontrar essa tecnologia em cartões de crédito, cartões de acesso para ônibus, fechaduras eletrônicas, entre outros. Embora o formato de cartão seja o mais conhecido, a tecnologia NFC também pode ser incorporada em outros dispositivos, como smartphones mais recentes, que a utilizam tanto para pagamentos quanto para a transmissão de dados para outros dispositivos compatíveis.
 
 <hr>
 
@@ -44,7 +44,9 @@ No cotidiano, podemos encontrar essa tecnologia em cartões de crédito, cartõe
 
 O BAN, ou Rede de Área Corporal, é um tipo de rede utilizada principalmente em aplicações na área da saúde. Nessa rede, os sensores distribuídos pelo seu corpo se comunicam com dispositivos eletrônicos, que podem estar fixados ao corpo, como smartwatches, ou posicionados próximos a ele, como sensores de batimentos cardíacos.
 
-<!--[ Adicionar uma imagem sobre o BAN ] -->
+<div align="center">
+  <img src="https://github.com/gabrielceravoloo/Aprendendo-Redes/blob/main/Imagens/BAN.jpg" alt="Imagem Ilustrativa sobre a rede BAN">
+</div>
 
 <hr>
 
@@ -54,7 +56,9 @@ O PAN, ou Rede de Área Pessoal, são pequena rede com um alcance de apenas algu
 
 Por exemplo, suponha que você queira escutar uma música em uma caixa acústica sem fio. Para isso, você devera usar o pareamento via **Bluetooth**, assim possiblitando a caixinha de som reproduzir as músicas que estão sendo tocadas pelo seu smartphone.
 
-<!--[ Adicionar uma imagem sobre o Bluetooth ] -->
+<div align="center">
+  <img src="https://github.com/gabrielceravoloo/Aprendendo-Redes/blob/main/Imagens/Bluetooth.png" alt="Imagem Ilustrativa sobre o bluetooth">
+</div>
 
 <hr>
 
@@ -64,7 +68,9 @@ O NAN, ou Rede de Área Próxima a Mim, é um tipo de **modelo teórico** de red
 
 Por exemplo, imagine um supermercado que queira oferecer um desconto especial para os clientes que estiverem dentro da loja naquele momento. Com a tecnologia NAN, o sistema do supermercado poderia identificar os dispositivos presentes no local e enviar uma oferta exclusiva apenas para os clientes que se encontram no estabelecimento, válida por um curto período, assim incentivando os clientes a comprarem mais.
 
-<!--[ Adicionar uma imagem sobre o NAN ] -->
+<div align="center">
+  <img src="https://github.com/gabrielceravoloo/Aprendendo-Redes/blob/main/Imagens/NAN.png" alt="Imagem Ilustrativa sobre a rede NAN">
+</div>
 
 <hr>
 
@@ -72,11 +78,17 @@ Por exemplo, imagine um supermercado que queira oferecer um desconto especial pa
 
 O LAN, ou Rede Local, é o tipo de rede mais comum de ser encontrada. Seja uma rede na sua casa ou em um escritório, ela é considerada uma LAN. Normalmente, a área de abrangência de uma rede local não passa de um único prédio ou construção, e pode ser classificada em alguns tipos:  
 
-✔ WLAN (Wireless Local Area Network): Uma rede local sem fio, ou seja, uma rede na qual você usa um ponto de acesso wireless para conectar dispositivos sem a necessidade de cabos;  
-✔ HAN (Home Area Network): Uma área de rede caseira, utilizada para conectar dispositivos dentro de uma residência, como computadores, smartphones e assistentes virtuais;  
-✔ SAN (Storage Area Network): Uma rede dedicada ao armazenamento de dados, utilizada principalmente em ambientes corporativos para conectar servidores de armazenamento  
+<div align="center">
+  <img src="https://github.com/gabrielceravoloo/Aprendendo-Redes/blob/main/Imagens/LAN.png" alt="Imagem Ilustrativa sobre a rede LAN">
+</div>  
 
-<!--[ Adicionar uma imagem sobre o LAN ] -->
+<br>
+
+✔ **WLAN (Wireless Local Area Network)**: Uma rede local sem fio, ou seja, uma rede na qual você usa um ponto de acesso wireless para conectar dispositivos sem a necessidade de cabos;  
+
+✔ **HAN (Home Area Network)**: Uma área de rede caseira, utilizada para conectar dispositivos dentro de uma residência, como computadores, smartphones e assistentes virtuais;  
+
+✔ **SAN (Storage Area Network)**: Uma rede dedicada ao armazenamento de dados, utilizada principalmente em ambientes corporativos para conectar servidores de armazenamento  
 
 <hr>
 
@@ -84,7 +96,9 @@ O LAN, ou Rede Local, é o tipo de rede mais comum de ser encontrada. Seja uma r
 
 O CAN, ou Rede de Campus, é um tipo de rede que abrange uma área maior do que apenas um único prédio. Como o próprio nome já sugere, um exemplo desse tipo de rede seria os campus universitários e/ou grandes complexos corporativos. Ela conecta diversos edifícios e departamentos, proporcionando uma comunicação entre eles.
 
-<!--[ Adicionar uma imagem sobre o CAN ] -->
+<div align="center">
+  <img src="https://github.com/gabrielceravoloo/Aprendendo-Redes/blob/main/Imagens/Campus.png" alt="Imagem Ilustrativa sobre a rede CAN">
+</div>  
 
 <hr>
 
@@ -92,7 +106,9 @@ O CAN, ou Rede de Campus, é um tipo de rede que abrange uma área maior do que 
 
 O MAN, ou Área de Rede Metropolitana, é um tipo de rede que pode cobrir o tamanho de alguns bairros ou até mesmo uma cidade. Um exemplo seria uma empresa que possui vários escritórios espalhados pela cidade e que estão interligados entre si por uma mesma rede, proporcionando uma comunicação entre essas unidades.
 
-<!--[ Adicionar uma imagem sobre o MAN ] -->
+<div align="center">
+  <img src="https://github.com/gabrielceravoloo/Aprendendo-Redes/blob/main/Imagens/MAN.png" alt="Imagem Ilustrativa sobre a rede MAN">
+</div> 
 
 <hr>
 
@@ -102,7 +118,9 @@ O WAN, ou Rede de Longo Alcance, é um tipo de rede que cobre uma distância mui
 
 Um exemplo de WAN seria uma empresa que tem o escritório em São Paulo, mas suas duas unidades fabris ficam na Zona Franca de Manaus, e essa rede da empresa está conectada ao escritório em São Paulo. 
 
-<!--[ Adicionar uma imagem sobre o WAN ] -->
+<div align="center">
+  <img src="https://github.com/gabrielceravoloo/Aprendendo-Redes/blob/main/Imagens/WAN.png" alt="Imagem Ilustrativa sobre a rede WAN">
+</div> 
 
 <hr>
 
@@ -110,23 +128,31 @@ Um exemplo de WAN seria uma empresa que tem o escritório em São Paulo, mas sua
 
 O GAN, ou Rede Global, é uma rede que se estende globalmente e pode englobar diferentes continentes ou regiões, permitindo assim a conectividade com milhões de outros dispositivos.
 
-<!--[ Adicionar uma imagem sobre o GAN ] -->
+<div align="center">
+  <img src="https://github.com/gabrielceravoloo/Aprendendo-Redes/blob/main/Imagens/GAN.jpg" alt="Imagem Ilustrativa sobre a rede GAN">
+</div>
 
 <hr>
 
 ### IAN (Internet Area Network)
 
-O IAN, ou Rede de Área de Internet, é um tipo de classificação para redes que utilizam a internet como meio de conexão para dispositivos e serviços. Um exemplo de IAN seria um [serviço de nuvem]() utilizado por uma empresa para fornecer acesso a dados e aplicativos aos seus funcionários em diferentes locais de uma cidade.
+O IAN, ou Rede de Área de Internet, é um tipo de classificação para redes que utilizam a internet como meio de conexão para dispositivos e serviços. Um exemplo de IAN seria um [Serviço de Nuvem](https://github.com/gabrielceravoloo/Aprendendo-Redes/tree/main?tab=readme-ov-file#%EF%B8%8F-cloud-computing-computa%C3%A7%C3%A3o-em-nuvem) utilizado por uma empresa para fornecer acesso a dados e aplicativos aos seus funcionários em diferentes locais de uma cidade.
+
+<div align="center">
+  <img src="https://github.com/gabrielceravoloo/Aprendendo-Redes/blob/main/Imagens/IAN.jpg" alt="Imagem Ilustrativa sobre a rede IAN">
+</div>
 
 <hr>
 
 ## ☁️ Cloud Computing (Computação em Nuvem)
 
-A computação em nuvem refere-se ao uso de recursos (como armazenamento, processamento e softwares) que são acessíveis pela internet, sem a necessidade de saber sua localização física. Esse tipo de serviço pode ser classificado como um [IAN (Internet Area Network)]().  
+A computação em nuvem refere-se ao uso de recursos (como armazenamento, processamento e softwares) que são acessíveis pela internet, sem a necessidade de saber sua localização física. Esse tipo de serviço pode ser classificado como um [IAN (Internet Area Network)](https://github.com/gabrielceravoloo/Aprendendo-Redes/tree/main?tab=readme-ov-file#ian-internet-area-network).  
 
 Um exemplo que podemos usar são o Google Drive e o Dropbox, que oferecem armazenamento e compartilhamento de arquivos sempre que necessário
 
-<!--[ Adicionar uma imagem sobre a Nuvem ] -->
+<div align="center">
+  <img src="https://github.com/gabrielceravoloo/Aprendendo-Redes/blob/main/Imagens/CLOUD.png" alt="Imagem Ilustrativa sobre a Nuvem">
+</div>
 
 <hr>
 
@@ -134,7 +160,9 @@ Um exemplo que podemos usar são o Google Drive e o Dropbox, que oferecem armaze
 
 A Internet é uma rede gigante composta por várias outras redes de computadores conectadas. Essas redes trocam informações, enviando pacotes de dados até um certo destino. O legal disso é que existem vários caminhos para chegar ao mesmo destino, ou seja, se uma rede falhar, a comunicação pode continuar por outros caminhos.
 
-<!--[ Adicionar uma imagem sobre as primeiras versões da internet ] -->
+<div align="center">
+  <img src="https://github.com/gabrielceravoloo/Aprendendo-Redes/blob/main/Imagens/Internet.jpg" alt="Imagem Ilustrativa sobre a internet">
+</div>
 
 > Curiosidade: A ideia de ter múltiplos caminhos foi uma das principais razões para o surgimento da Internet nos anos 60, quando o Departamento de Defesa dos Estados Unidos criou a rede durante a Guerra Fria. O objetivo era garantir a comunicação, mesmo em caso de ataques, utilizando a redundância de caminhos. 🤓 📚
 
@@ -144,11 +172,15 @@ A Internet é uma rede gigante composta por várias outras redes de computadores
 
 A WWW, também chamada de Teia de Alcance Mundial ou o famoso Serviço Web, é uma plataforma que conecta páginas de sites por meio de links. Por exemplo, um site contém seu conteúdo e, dentro dele, links que levam a outras páginas. Essas páginas, por sua vez, também possuem links para outras. Se representarmos esse modelo em um diagrama, ele se assemelha muito a uma teia.
 
-<!--[ Adicionar uma imagem do Google ] -->
-
 Seguindo essa analogia, sistemas que "navegam" por essa teia para procurar ou indexar informações, como o nosso famoso [Google Chrome](www.google.com.br), são chamados de **Spiders (aranhas)** ou **Crawlers (rastejadores)**.
 
+<div align="center">
+  <img src="https://github.com/gabrielceravoloo/Aprendendo-Redes/blob/main/Imagens/WEB.jpeg" alt="Imagem Ilustrativa sobre a WEB">
+</div>
+
 <hr>
+
+<br>
 
 ## 🤔  Por que é importante entender a diferença entre a Web e a Internet?
 
