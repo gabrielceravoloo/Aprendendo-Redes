@@ -12,7 +12,18 @@ Este repositório foi criado para registrar meus estudos sobre **Rede de Computa
 
 <hr>
 
-<!-- Adicionar imagens -->
+## 🌐 Oque é rede de computadores?
+
+<!-- INICIO -->
+
+Uma rede de computadores é um conjunto de dispositivos interligados entre si por algum tipo de conexão, seja com ou sem fio. O principal objetivo de uma rede é permitir o compartilhamento de recursos e informações entre dispositivos.
+
+<div align="center">
+  <img src="https://github.com/gabrielceravoloo/Aprendendo-Redes/blob/main/Imagens/Redes.jpeg" alt="Imagem Ilustrativa sobre a tecnologia NFC">
+</div>
+
+No nosso dia a dia, utilizamos redes de computadores o tempo todo, muitas vezes sem perceber. Um exemplo simples é quando sacamos dinheiro em um caixa eletrônico. Ao inserir o cartão e solicitar um saque, o caixa eletrônico se conecta ao sistema do banco para verificar suas informações bancárias e confirmar se há saldo suficiente. Se tudo estiver certo, a transação é autorizada, e o dinheiro é liberado. 
+
 <!-- Adicionar introdução sobre oque é rede de computadores -->
 
 ## 🗂️ Classificações de redes quanto à abrangência
@@ -37,11 +48,31 @@ O BAN, ou Rede de Área Corporal, é uma tecnologia utilizada principalmente em 
 
 <hr>
 
+<!-- CONTINUAR
+
 ### PAN (Personal Area Network)
+### WPAN (Wireless Personal Area Network)
+### NAN (Near-me Area Network)
+### LAN (Local Area Network)
+### WLAN (Wireless Local Area Network)
+### HAN (Home Area Network)
+### SAN (Storage Area Network)
+### CAN (Campus Area Network)
+### MAN (Metropolitan Area Network)
+### WAN (Wide Area Network)
+### GAN (Global Area Network)
+
+### Nuvem
+### IAN (Internet Area Network)
+
+### Internet
+### WWW (World Wide Web)
 
 <!-- Adicionar uma explicação para diferenciar WEB de Internet -->
 
 <!-- Assuntos antigos que devem ser arrumados para uma melhor compreensão
+
+✔
 
 ## Tipos de Redes
 
